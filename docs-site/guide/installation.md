@@ -12,7 +12,7 @@
 
 ## 下载安装包
 
-前往 [Releases 页面](https://github.com/ashwinyue/xyz-kit/releases/latest) 下载对应平台的安装包：
+前往 [Releases 页面](https://github.com/9Ashwin/xyz-kit/releases/latest) 下载对应平台的安装包：
 
 | 平台 | 架构 | 文件名 |
 |------|------|--------|
@@ -122,4 +122,4 @@ xattr -cr /Applications/xyz-kit.app
 2. 确保系统满足最低要求
 3. 尝试重新安装应用
 
-如果问题仍未解决，请[提交 Issue](https://github.com/ashwinyue/xyz-kit/issues)。
+如果问题仍未解决，请[提交 Issue](https://github.com/9Ashwin/xyz-kit/issues)。

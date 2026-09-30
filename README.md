@@ -1,18 +1,18 @@
 # xyz-kit - 轻量级文本处理工具
 
-[![Release](https://img.shields.io/github/v/release/ashwinyue/xyz-kit)](https://github.com/ashwinyue/xyz-kit/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/ashwinyue/xyz-kit/total)](https://github.com/ashwinyue/xyz-kit/releases)
-[![License](https://img.shields.io/github/license/ashwinyue/xyz-kit)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/9Ashwin/xyz-kit)](https://github.com/9Ashwin/xyz-kit/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/9Ashwin/xyz-kit/total)](https://github.com/9Ashwin/xyz-kit/releases)
+[![License](https://img.shields.io/github/license/9Ashwin/xyz-kit)](LICENSE)
 
 一个基于 Tauri + React 构建的桌面文本处理工具，专为开发者设计，提供快速的 ID 格式转换功能。
 
 ## 📥 下载
 
-[![下载最新版本](https://img.shields.io/badge/下载-最新版本-blue?style=for-the-badge)](https://github.com/ashwinyue/xyz-kit/releases/latest)
+[![下载最新版本](https://img.shields.io/badge/下载-最新版本-blue?style=for-the-badge)](https://github.com/9Ashwin/xyz-kit/releases/latest)
 
 ### 安装包说明
 
-前往 [Releases 页面](https://github.com/ashwinyue/xyz-kit/releases/latest) 下载对应平台的安装包：
+前往 [Releases 页面](https://github.com/9Ashwin/xyz-kit/releases/latest) 下载对应平台的安装包：
 
 | 平台 | 架构 | 文件名 |
 |------|------|--------|

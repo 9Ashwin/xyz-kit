@@ -60,7 +60,7 @@ xcode-select --install
 ## 克隆项目
 
 ```bash
-git clone https://github.com/ashwinyue/xyz-kit.git
+git clone https://github.com/9Ashwin/xyz-kit.git
 cd xyz-kit
 ```
 

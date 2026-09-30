@@ -105,7 +105,7 @@
 
 ### Q: 如何检查更新？
 
-**A**: 访问 [Releases 页面](https://github.com/ashwinyue/xyz-kit/releases/latest) 查看最新版本。
+**A**: 访问 [Releases 页面](https://github.com/9Ashwin/xyz-kit/releases/latest) 查看最新版本。
 
 ### Q: 如何更新应用？
 
@@ -123,7 +123,7 @@
 1. 检查系统是否满足最低要求
 2. 查看系统日志中的错误信息
 3. 尝试重新安装
-4. 如果问题持续，请[提交 Issue](https://github.com/ashwinyue/xyz-kit/issues)
+4. 如果问题持续，请[提交 Issue](https://github.com/9Ashwin/xyz-kit/issues)
 
 ### Q: 窗口显示异常
 
@@ -143,7 +143,7 @@
 
 ### Q: 如何报告 Bug？
 
-**A**: 在 [GitHub Issues](https://github.com/ashwinyue/xyz-kit/issues) 提交问题，请包含：
+**A**: 在 [GitHub Issues](https://github.com/9Ashwin/xyz-kit/issues) 提交问题，请包含：
 - 操作系统版本
 - 应用版本
 - 问题描述
@@ -152,7 +152,7 @@
 
 ### Q: 如何提出功能建议？
 
-**A**: 在 [GitHub Issues](https://github.com/ashwinyue/xyz-kit/issues) 提交功能请求，描述你的需求和使用场景。
+**A**: 在 [GitHub Issues](https://github.com/9Ashwin/xyz-kit/issues) 提交功能请求，描述你的需求和使用场景。
 
 ### Q: 如何参与开发？
 
@@ -162,6 +162,6 @@
 
 如果你的问题没有在这里找到答案，请：
 
-1. 查看 [GitHub Issues](https://github.com/ashwinyue/xyz-kit/issues) 中是否有类似问题
+1. 查看 [GitHub Issues](https://github.com/9Ashwin/xyz-kit/issues) 中是否有类似问题
 2. 提交新的 Issue 描述你的问题
 3. 加入讨论区与其他用户交流

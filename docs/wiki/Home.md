@@ -26,9 +26,9 @@
 
 ## 🚀 快速链接
 
-- [GitHub 仓库](https://github.com/ashwinyue/xyz-kit)
-- [下载最新版本](https://github.com/ashwinyue/xyz-kit/releases/latest)
-- [提交问题](https://github.com/ashwinyue/xyz-kit/issues)
+- [GitHub 仓库](https://github.com/9Ashwin/xyz-kit)
+- [下载最新版本](https://github.com/9Ashwin/xyz-kit/releases/latest)
+- [提交问题](https://github.com/9Ashwin/xyz-kit/issues)
 
 ## 💡 关于
 

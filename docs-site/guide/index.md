@@ -13,7 +13,7 @@ xyz-kit 是一个轻量级的桌面文本处理工具，专为开发者设计，
 
 ## 📥 下载
 
-[![下载最新版本](https://img.shields.io/badge/下载-最新版本-blue?style=for-the-badge)](https://github.com/ashwinyue/xyz-kit/releases/latest)
+[![下载最新版本](https://img.shields.io/badge/下载-最新版本-blue?style=for-the-badge)](https://github.com/9Ashwin/xyz-kit/releases/latest)
 
 | 平台 | 架构 | 文件名 |
 |------|------|--------|

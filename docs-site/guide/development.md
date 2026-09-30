@@ -60,7 +60,7 @@ xcode-select --install
 ## 克隆项目
 
 ```bash
-git clone https://github.com/ashwinyue/xyz-kit.git
+git clone https://github.com/9Ashwin/xyz-kit.git
 cd xyz-kit
 ```
 
@@ -246,6 +246,6 @@ cargo clean
 
 ## 下一步
 
-- 访问 [GitHub 仓库](https://github.com/ashwinyue/xyz-kit) 查看源代码
-- 查看 [Issues](https://github.com/ashwinyue/xyz-kit/issues) 了解待解决的问题
-- 提交 [Pull Request](https://github.com/ashwinyue/xyz-kit/pulls) 贡献代码
+- 访问 [GitHub 仓库](https://github.com/9Ashwin/xyz-kit) 查看源代码
+- 查看 [Issues](https://github.com/9Ashwin/xyz-kit/issues) 了解待解决的问题
+- 提交 [Pull Request](https://github.com/9Ashwin/xyz-kit/pulls) 贡献代码

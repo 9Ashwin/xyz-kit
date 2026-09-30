@@ -15,7 +15,7 @@ export default defineConfig({
       { text: '组件', link: '/components/' },
       { 
         text: 'GitHub', 
-        link: 'https://github.com/ashwinyue/xyz-kit' 
+        link: 'https://github.com/9Ashwin/xyz-kit' 
       }
     ],
 
@@ -40,7 +40,7 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/ashwinyue/xyz-kit' }
+      { icon: 'github', link: 'https://github.com/9Ashwin/xyz-kit' }
     ],
 
     footer: {

@@ -168,4 +168,4 @@ orange
 
 - 查看[常见问题](./faq)解决使用中的问题
 - 查看[开发文档](./development)了解如何参与开发
-- 访问 [GitHub](https://github.com/ashwinyue/xyz-kit) 查看源代码
+- 访问 [GitHub](https://github.com/9Ashwin/xyz-kit) 查看源代码
