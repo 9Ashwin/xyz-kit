@@ -15,7 +15,7 @@ export default defineConfig({
       { text: '组件', link: '/components/' },
       { 
         text: 'GitHub', 
-        link: 'https://github.com/9Ashwin/xyz-kit' 
+        link: 'https://github.com/9Ashwin/xyz-kit'
       }
     ],
 
